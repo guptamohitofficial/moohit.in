@@ -7,7 +7,7 @@ const person = {
     return `${this.firstName} ${this.lastName}`;
   },
   role: "CEO & Technology Leader",
-  avatar: "/images/avatar.jpg",
+  avatar: "/images/avatar.png",
   email: "moohitgupta1@gmail.com",
   location: "Asia/Kolkata",
   languages: ["English", "Hindi"],
